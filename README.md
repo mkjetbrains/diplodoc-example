@@ -1,5 +1,7 @@
 # Documentation Template created by Diplodoc
 
+Cats are better than dogs.
+
 Features:
 
 - initial project structure
